@@ -14,6 +14,7 @@ import com.demo.publicopinionnews.helper.OnItemClickListener;
 import java.util.ArrayList;
 import java.util.List;
 
+//菜单
 public class MenuAdapter extends RecyclerView.Adapter<MenuAdapter.MyViewHolder> {
     private LayoutInflater mInflater;
     private Context mContext;

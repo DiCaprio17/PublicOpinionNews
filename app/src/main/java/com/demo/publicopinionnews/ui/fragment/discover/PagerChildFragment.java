@@ -18,7 +18,7 @@ import java.util.List;
 import me.yokeyword.fragmentation.anim.DefaultNoAnimator;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
 
-
+//发现页显示
 public class PagerChildFragment extends BaseFragment {
     private static final String ARG_FROM = "arg_from";
 

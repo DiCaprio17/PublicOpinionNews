@@ -30,7 +30,7 @@ import me.yokeyword.fragmentation.anim.DefaultNoAnimator;
 import me.yokeyword.fragmentation.anim.DefaultVerticalAnimator;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
 
-
+//主页
 public class HomeFragment extends BaseMainFragment implements Toolbar.OnMenuItemClickListener {
     private static final String TAG = "Fragmentation";
     private Toolbar mToolbar;

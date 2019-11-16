@@ -14,9 +14,7 @@ import android.widget.Toast;
 
 import com.demo.publicopinionnews.ui.BaseBackFragment;
 
-/**
- * Created by YoKeyword on 16/2/14.
- */
+//注册
 public class RegisterFragment extends BaseBackFragment {
     private EditText mEtAccount, mEtPassword, mEtPasswordConfirm;
     private Button mBtnRegister;

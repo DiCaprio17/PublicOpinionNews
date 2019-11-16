@@ -13,7 +13,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.demo.publicopinionnews.ui.BaseBackFragment;
-
+//登录
 public class LoginFragment extends BaseBackFragment {
     private EditText mEtAccount, mEtPassword;
     private Button mBtnLogin, mBtnRegister;

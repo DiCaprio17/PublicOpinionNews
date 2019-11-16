@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 import com.demo.publicopinionnews.ui.fragment.discover.PagerChildFragment;
 
-
+//发现页
 public class DiscoverFragmentAdapter extends FragmentPagerAdapter {
     String[] mTitles = new String[]{"推荐", "热门", "收藏"};
 
